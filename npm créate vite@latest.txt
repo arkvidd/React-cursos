@@ -23,3 +23,23 @@ ahora agegar todos los archivos del proyecto
 
 realizar un comit descriptivo de la versión a subir
 "git commit -m "primera subida"
+
+luego saldrá q debe iniciar sesión con el navegador:
+inicie con sus credenciales de GitHub
+listo actualiza el repositorio de la nube
+
+comprobar el estado del proyecto
+git status
+
+(si aparece en algo en rojo significa que el archivo es nuevo o se ha modificado)
+
+comando para actualizar el respositorio con la versión local 
+git status
+git add
+git commit -m nombre de la vrsion o descripción del commit
+git push 
+
+crear ramas
+git checkout -b nombre de la rama
+git switch -c nombre de la rama
+git push origin nombre de la rama
