@@ -1,0 +1,25 @@
+npm créate vite@latest
+
+repositiro GitHub
+
+iniciar repositorio local:
+git init"
+
+cambiar el nombre de master a main:
+"git Branch -M main" 
+
+eliminar credenciales de otros usuarios
+"win + s"
+
+Escribir: administrador de credenciales
+selecciona crednciales de Windows y luego buscar las cuentas asociadas y elimina 
+
+configura usuario local git:
+git config user.email "dylan0steven@gmail.com"
+git config user.name "arkvidd" 
+
+ahora agegar todos los archivos del proyecto
+"git add ."
+
+realizar un comit descriptivo de la versión a subir
+"git commit -m "primera subida"
